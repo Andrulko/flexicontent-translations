@@ -1,8 +1,8 @@
-"project_identifier" : "flexicontent-cck-for-joomla"
-"api_key" : "c7157f327965cb5088d62dc5ba5467d5"
-"base_path" : ""
-
 files: [
+  {
+    "source": "/**/en-GB/en-GB.ini",
+    "translation": "/**/%locale%/%locale%.ini",
+  },
   {
     "source": "/**/en-GB/en-GB.*.ini",
     "translation": "/**/%locale%/%locale%.%file_name%.ini",
